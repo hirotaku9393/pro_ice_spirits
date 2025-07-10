@@ -23,6 +23,19 @@
 ogpを使うことでより魅力的にsnsで目に付くようにします
 
 ## 差別化
-
 ランキングやシンプルな○○で打順くんでみたよりも、ゲームにすることでユーザーに複数回アプリに触ってもらえると思っています
 
+## 機能候補
+ランキング機能（他のユーザーとのスコアを表示、top10のみ)
+リプレイ機能(結果表示画面に表示)
+ogp対応の結果表示画面(snsでシェアする際に画像と順位を表示できるように）
+それぞれの打順でのアイスの選択はプルダウンでできるように
+
+## 機能の実装方針予定
+ogp: gem mini_magick
+画面遷移時アニメーション: Stimulus controller, tailwind css animation, <video>タグ
+ランキングリスト: ranked-model
+バックエンド:　Ruby on Rails/ Ruby (JavaScript)
+フロント: TailwindCSS
+データベース: PostgreSQL
+デプロイ: Render
