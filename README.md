@@ -2,7 +2,8 @@
 
 ## 画面遷移図のurlはこちら
 https://www.figma.com/design/DflUlNUM8G2mTGCv1HlMMe/%E7%84%A1%E9%A1%8C?node-id=0-1&t=v8dhhIQMxhRSf1re-1
-
+## ER図の画像
+![ER図](https://i.gyazo.com/f318fafd3d1534f4b561386f85d39160.png)
 ## サービス概要
 
 今食べたいアイスについてのあじぐらふ(味に対する5種類のレーダーチャート)の数値を選んで、今のあなたにおすすめなアイスをセレクト！
